@@ -17,6 +17,10 @@ Splice into the black ground wire and connect it to the ground connector.
 * [M-3 Schematic](http://captain-foldback.com/Hammond_sub/schematics/M3_early.zip) - early version with field coil speaker, serial # 48000 to 90485)
 * [M-3 wiring diagram](http://captain-foldback.com/Hammond_sub/schematics/M3_early.zip) - for above version
 
+The schematic was designed with [Fritzing](https://fritzing.org/).
+The panel and box were designed with [Fusion 360](https://www.autodesk.com/products/fusion-360). 
+(Note that [Fusion 360 and other Autodesk products are free to use for CU Boulder faculty and students](https://oit.colorado.edu/software-hardware/software-catalog/autocad).)
+
 ![panel](./Hammond_LineOut_Headphone_Panel_photo.jpg)
 ![inside](./Hammond_LineOut_Headphone_Panel_insde.jpg)
 ![schematic](./hammond_headphone_lineout_schem.jpg)
