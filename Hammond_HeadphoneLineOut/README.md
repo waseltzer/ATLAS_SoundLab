@@ -1,4 +1,4 @@
-One of the Sound Lab class projects including sampling the lab's Hammond M3 organ.
+One of the [University of Colorado / ATLAS Instute](https://www.colorado.edu/atlas/)'s Spring 20203 Sound Lab class projects includes sampling the lab's Hammond M3 organ.
 The M3 lacks a line output jack, so this project adds this missing feature.
 
 Based on [LineOut from a Spinet](http://www.dairiki.org/HammondWiki/LineOutFromASpinet) which is refenced by a number of Hammond M3 techinical forums.
