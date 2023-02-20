@@ -18,8 +18,8 @@ Splice into the black ground wire and connect it to the ground connector.
 * [M-3 wiring diagram](http://captain-foldback.com/Hammond_sub/schematics/M3_early.zip) - for above version
 
 Design files:
-* The schematic [hammond_headphone_lineout.fzz](./hammond_headphone_lineout.fzz) was designed with [Fritzing](https://fritzing.org/).
-* The panel and box [Hammond_LineOut_Headphone_Panel.f3d](./Hammond_LineOut_Headphone_Panel.f3d) were designed with [Fusion 360](https://www.autodesk.com/products/fusion-360). 
+* The schematic ([hammond_headphone_lineout.fzz](./hammond_headphone_lineout.fzz)) was designed with [Fritzing](https://fritzing.org/).
+* The panel and box ([Hammond_LineOut_Headphone_Panel.f3d](./Hammond_LineOut_Headphone_Panel.f3d)) were designed with [Fusion 360](https://www.autodesk.com/products/fusion-360). 
   * (Note that [Fusion 360 and other Autodesk products are free to use for CU Boulder faculty and students](https://oit.colorado.edu/software-hardware/software-catalog/autocad).)
 
 ![panel](./Hammond_LineOut_Headphone_Panel_photo.jpg)
