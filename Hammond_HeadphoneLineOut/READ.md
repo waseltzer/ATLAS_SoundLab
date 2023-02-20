@@ -12,10 +12,10 @@ Cut the green wire and connect the side running to the speaker to the speaker ou
 Connect the other side of the green wire to amp in.
 Splice into the black ground wire and connect it to the ground connector.
 
-[Hammond Schematic and wiring diagrams] (http://captain-foldback.com/Hammond_sub/hammond_schematics.htm)
+[Hammond Schematic and wiring diagrams](http://captain-foldback.com/Hammond_sub/hammond_schematics.htm)
 
-* [M-3 Schematic] (http://captain-foldback.com/Hammond_sub/schematics/M3_early.zip) - early version with field coil speaker, serial # 48000 to 90485)
-* [M-3 wiring diagram] (http://captain-foldback.com/Hammond_sub/schematics/M3_early.zip) - for above version
+* [M-3 Schematic](http://captain-foldback.com/Hammond_sub/schematics/M3_early.zip) - early version with field coil speaker, serial # 48000 to 90485)
+* [M-3 wiring diagram](http://captain-foldback.com/Hammond_sub/schematics/M3_early.zip) - for above version
 
 ![panel](Hammond_HeadphoneLineOut/Hammond_LineOut_Headphone_Panel_photo.jpg)
 ![inside](Hammond_HeadphoneLineOut/Hammond_LineOut_Headphone_Panel_insde.jpg)
