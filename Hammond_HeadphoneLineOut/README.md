@@ -25,3 +25,4 @@ Design files:
 ![panel](./Hammond_LineOut_Headphone_Panel_photo.jpg)
 ![inside](./Hammond_LineOut_Headphone_Panel_insde.jpg)
 ![schematic](./hammond_headphone_lineout_schem.jpg)
+![wiring](https://docs.google.com/drawings/d/1cAGUUYIvQpBTmiA-liVRN2AA-Yzoq7PjT-2qa91Djhs/edit?usp=sharing)
