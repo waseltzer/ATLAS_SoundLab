@@ -27,3 +27,4 @@ Design files:
 ![schematic](./hammond_headphone_lineout_schem.jpg)
 ![wiring block] (./Hammond_M3_LineOut_wiring_block.jpg)
 [wiring block- Google Drawing](https://docs.google.com/drawings/d/1cAGUUYIvQpBTmiA-liVRN2AA-Yzoq7PjT-2qa91Djhs/edit?usp=sharing)
+
